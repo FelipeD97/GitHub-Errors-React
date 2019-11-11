@@ -27,9 +27,11 @@ class Issues extends Component {
                         // State is an array so iterate over the array
                         <div key={`${id}`} >
                             <p>{ id.title }</p>
+                            <p>&nbsp;</p>
                             <li>
                                 { id.body }
                             </li>
+                            <p>&nbsp;</p>
                         </div>
                     );
                 })}

@@ -1,5 +1,7 @@
 import React from 'react';
-import Issues from "./components/issues";
+import Issues from "./components/issueList";
+
+import "bulma/css/bulma.css";
 import './App.css';
 
 function App() {
