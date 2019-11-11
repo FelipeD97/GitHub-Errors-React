@@ -1,4 +1,4 @@
-# GitHub-React
+# GitHub-Errors-React
 
 ## Description
 
